@@ -1,1 +1,12 @@
-
+[
+  {
+    "title": "The Haunted House",
+    "image": "https://raw.githubusercontent.com/username/repository/main/images/house.jpg",
+    "content": "Once upon a time in a haunted house..."
+  },
+  {
+    "title": "Ghost in the Mirror",
+    "image": "https://raw.githubusercontent.com/username/repository/main/images/mirror.jpg",
+    "content": "She saw a ghost in the mirror..."
+  }
+]
